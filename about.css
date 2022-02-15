@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@600&family=Quintessential&family=Ubuntu:ital,wght@0,300;1,400&display=swap');
+
+.head{
+    background: url('abt.jpg') no-repeat center/cover;
+  }
+h2{
+    text-align: center;
+    padding-top: 10%;
+}
+.para .forms {
+    padding-bottom: 30%;
+    padding: 20%;
+    margin-bottom: 0px;
+}
+.para .forms p{
+    font-family: 'Dancing Script', cursive;
+font-family: 'Quintessential', cursive;
+font-family: 'Ubuntu', sans-serif;
+}
